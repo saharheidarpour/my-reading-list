@@ -22,9 +22,15 @@ Building a GraphQL Server with Express
 ```
 
 
-
 https://www.freecodecamp.org/news/how-to-add-commit-hooks-to-git-with-husky-to-automate-code-tasks/
 
 ```
 How to Add Commit Hooks to Git with Husky to Automate Code Tasks
+```
+
+
+https://medium.com/angular-in-depth/angular-structural-directives-implement-your-own-ngif-860175f540cc
+
+```
+Angular structural directives — implement your own *ngIf
 ```
