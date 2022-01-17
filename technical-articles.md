@@ -34,3 +34,9 @@ https://medium.com/angular-in-depth/angular-structural-directives-implement-your
 ```
 Angular structural directives — implement your own *ngIf
 ```
+
+https://chineduorie.com/posts/how-to-use-sequelize-on-an-existing-database
+
+```
+How to Use Sequelize on an Existing Database
+```
