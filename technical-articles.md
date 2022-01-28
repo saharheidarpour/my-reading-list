@@ -40,3 +40,9 @@ https://chineduorie.com/posts/how-to-use-sequelize-on-an-existing-database
 ```
 How to Use Sequelize on an Existing Database
 ```
+
+https://khalilstemmler.com/articles/tutorials/dependency-injection-inversion-explained/
+
+```
+Dependency Injection & Inversion Explained | Node.js w/ TypeScript
+```
