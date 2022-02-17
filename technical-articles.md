@@ -46,3 +46,12 @@ https://khalilstemmler.com/articles/tutorials/dependency-injection-inversion-exp
 ```
 Dependency Injection & Inversion Explained | Node.js w/ TypeScript
 ```
+
+-  https://dev.to/angular/what-the-heck-is-httpcontext-in-angular-4n3c
+
+-  https://netbasal.com/new-in-angular-v12-passing-context-to-http-interceptors-308a1ca2f3dd#:~:text=HttpContext%20stores%20arbitrary%20user%2Ddefined,cloned%20requests%20unless%20explicitly%20specified.
+
+
+```
+HttpContext in Angular
+```
