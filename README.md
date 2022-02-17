@@ -6,3 +6,5 @@ the list of articles I read
 
 ### [Non-Technical Articles](https://github.com/saharheidarpour/my-reading-list/blob/main/non-technical-articles.md)
 
+### [Books](https://github.com/saharheidarpour/my-reading-list/blob/main/books.md)
+
