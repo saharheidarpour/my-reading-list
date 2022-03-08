@@ -55,3 +55,9 @@ Dependency Injection & Inversion Explained | Node.js w/ TypeScript
 ```
 HttpContext in Angular
 ```
+
+https://stackshare.io/stackups/prisma-vs-typeorm
+
+```
+Prisma vs TypeORM
+```
