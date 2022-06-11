@@ -61,3 +61,9 @@ https://stackshare.io/stackups/prisma-vs-typeorm
 ```
 Prisma vs TypeORM
 ```
+
+https://www.sitepoint.com/react-with-typescript-best-practices/
+```
+React with TypeScript: Best Practices
+```
+
