@@ -67,3 +67,8 @@ https://www.sitepoint.com/react-with-typescript-best-practices/
 React with TypeScript: Best Practices
 ```
 
+https://dev.to/workshub/state-management-battle-in-react-2021-hooks-redux-and-recoil-2am0
+```
+State Management Battle in React 2021: Hooks, Redux, and Recoil
+```
+
