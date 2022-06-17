@@ -72,3 +72,7 @@ https://dev.to/workshub/state-management-battle-in-react-2021-hooks-redux-and-re
 State Management Battle in React 2021: Hooks, Redux, and Recoil
 ```
 
+https://tapajyoti-bose.medium.com/redux-vs-context-api-when-to-use-them-1271f95289dc
+```
+Redux vs Context API: When to use them
+```
