@@ -92,3 +92,8 @@ https://blog.risingstack.com/using-react-with-webpack-tutorial/
 ```
 Using React with Webpack Tutorial
 ```
+
+https://www.freecodecamp.org/news/state-management-with-react-hooks/
+```
+How to manage state in a React app with just Context and Hooks
+```
