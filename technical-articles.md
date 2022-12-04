@@ -102,3 +102,8 @@ https://dev.to/codebucks/form-validation-in-reactjs-by-building-reusable-custom-
 ```
 Form Validation In ReactJS by building A Reusable Custom hook
 ```
+
+https://www.freecodecamp.org/news/mongodb-mongoose-node-tutorial/
+```
+How to Use MongoDB + Mongoose with Node.js – Best Practices for Back End Devs
+```
