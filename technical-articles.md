@@ -107,3 +107,8 @@ https://www.freecodecamp.org/news/mongodb-mongoose-node-tutorial/
 ```
 How to Use MongoDB + Mongoose with Node.js – Best Practices for Back End Devs
 ```
+
+https://www.mongodb.com/developer/languages/javascript/mongoose-versus-nodejs-driver/#what-is-mongodb-schema-validation-
+```
+MongoDB & Mongoose: Compatibility and Comparison
+```
