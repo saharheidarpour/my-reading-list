@@ -112,3 +112,8 @@ https://www.mongodb.com/developer/languages/javascript/mongoose-versus-nodejs-dr
 ```
 MongoDB & Mongoose: Compatibility and Comparison
 ```
+
+https://medium.com/@huantao/how-to-add-additional-routes-dynamically-in-angular-6840bb89493c
+```
+How To Add Routes Dynamically In Angular
+```
