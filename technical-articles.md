@@ -121,3 +121,7 @@ https://medium.com/@huantao/how-to-add-additional-routes-dynamically-in-angular-
 ```
 How To Add Routes Dynamically In Angular
 ```
+https://dev.to/calvin087/how-to-handle-multiple-queries-with-react-query-24gn
+```
+How to handle multiple queries with React-Query
+```
