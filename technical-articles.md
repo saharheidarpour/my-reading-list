@@ -125,3 +125,7 @@ https://dev.to/calvin087/how-to-handle-multiple-queries-with-react-query-24gn
 ```
 How to handle multiple queries with React-Query
 ```
+https://www.solutelabs.com/blog/nestjs-vs-expressjs
+```
+NestJS vs ExpressJS: Which Framework To Choose?
+```
