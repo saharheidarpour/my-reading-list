@@ -137,3 +137,7 @@ https://dev.to/dbshanks/an-efficient-react-tailwindcss-styled-components-workflo
 ```
 An Efficient React + TailwindCSS + Styled Components Workflow
 ```
+https://betterprogramming.pub/understanding-the-closure-trap-of-react-hooks-6c560c408cde?gi=e89b13da1d64
+```
+Understanding the Closure Trap of React Hooks
+```
