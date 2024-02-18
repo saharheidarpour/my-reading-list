@@ -141,3 +141,8 @@ https://betterprogramming.pub/understanding-the-closure-trap-of-react-hooks-6c56
 ```
 Understanding the Closure Trap of React Hooks
 ```
+
+https://mia-platform.eu/blog/monolith-to-microservices/?utm_source=thenewstack&utm_medium=website&utm_content=inline-mention&utm_campaign=platform
+```
+From monolith to microservices: how to evolve your legacy
+```
